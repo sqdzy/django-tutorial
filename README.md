@@ -7,4 +7,4 @@
 <a href = "https://docs.djangoproject.com/en/5.0/intro/tutorial05/">Часть 5</a><br>
 <a href = "https://docs.djangoproject.com/en/5.0/intro/tutorial06/">Часть 6</a><br>
 <a href = "https://docs.djangoproject.com/en/5.0/intro/tutorial07/">Часть 7</a><br>
-<a href = "https://docs.djangoproject.com/en/5.0/intro/tutorial07/">Часть 8</a><br>
+<a href = "https://docs.djangoproject.com/en/5.0/intro/tutorial08/">Часть 8</a><br>
